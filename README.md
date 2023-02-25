@@ -10,8 +10,11 @@
 ![ScreenShot](/snaps/1.png)
 
 #Init Process
+
 Ref hash
+
 578393c11600c75829e2de6c463522e0609cc8d7f54d1b27f9ad6fcd71c1edf1
+
 ![ScreenShot](/snaps/2.png)
 
 #Update Process
